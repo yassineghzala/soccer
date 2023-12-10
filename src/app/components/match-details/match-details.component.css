@@ -1,0 +1,12 @@
+.classWin{
+    color:green;
+    font-size: 60px;
+}
+.classLose{
+    color:blue;
+    font-size: 40px;
+}
+.classDraw{
+    color:yellow;
+    font-size: 50px;
+}
